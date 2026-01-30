@@ -111,7 +111,8 @@ A React app for exploring Pokémon.
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48"/>
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="48"/>
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="48"/>
-  <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" width="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="48"/>
+
 </p>
 
 ---
